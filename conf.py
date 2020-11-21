@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'Insights for Telecom  Call Data Analytics'
+copyright = '2020, TrinadhReddy'
+author = 'TrinadhReddy'
 
 # The full version, including alpha/beta/rc tags
 release = ''
